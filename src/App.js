@@ -12,15 +12,12 @@ import Footer from './coponents/Footer'
 export default function App() {
   return (
     <div>
-     
         <NavBar/>
         <Home/>
         <Education/>
         <Projects/>
         <Contact/>
         <Footer/>
-
-     
     </div>
   )
 }
